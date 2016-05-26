@@ -1,16 +1,21 @@
 .col1 {
   background-color: #A1D490;
+  margin: 15px;
+  padding: 10px;
 }
 
 .col2 {
   background-color: #D1B0CF;
+  margin: 15px;
+  padding: 10px;
 }
 .mySidebar {
   margin-right: 20px;
-
+  min-height: 100vh;
 }
-h1 {
-  margin-top: 100px;
-  background-color: #eee;
-  border: 2px solid black;
-}
+ .imgcol {
+   background-color: #eee;
+   border: solid 1px green;
+   margin: 15px;
+   padding: 10px;
+ }
